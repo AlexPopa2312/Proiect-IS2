@@ -11,4 +11,4 @@ Funcționalitățile principale includ:
 * Expunerea datelor prin DTO-uri și servicii dedicate
 * Documentație API accesibilă prin Swagger
 
-Proiectul respectă principiile arhitecturale cerute: separare pe straturi (Controllers, Services, Data, DTO), utilizarea EF Core pentru ORM, precum și implementarea unei arhitecturi scalabile bazate pe microservicii (API + DB). Este realizat în echipă și versionat colaborativ prin GitHub.
+Proiectul respectă principiile arhitecturale cerute: separare pe straturi (Controllers, Services, Data, DTO), utilizarea EF Core pentru ORM, precum și implementarea unei arhitecturi scalabile bazate pe microservicii (API + DB).
